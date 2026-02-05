@@ -1,12 +1,12 @@
-# Planification Automatique des Soutenances - Version avec Salles
+# Planification automatique des soutenances
 
-## 📋 Description
+## Description
 
 Ce modèle vise à planifier automatiquement les soutenances à l'Institut de Formation et de Recherche en Informatique (IFRI) de l'Université de Abomey Calavi (UAC). L'objectif est d'affecter chaque étudiant à un créneau horaire dans une salle avec un jury composé de trois membres (Président, Maître de mémoire et Examinateur), tout en respectant les contraintes de disponibilité, de spécialité et de grade des enseignants, ainsi que la capacité limitée des salles. Le modèle minimise également les déplacements des enseignants entre les salles et leur temps d'attente.
 
 ---
 
-## 📊 Modélisation Mathématique
+## Modélisation mathématique
 
 ### Ensembles
 
@@ -30,7 +30,7 @@ Ce modèle vise à planifier automatiquement les soutenances à l'Institut de Fo
 | $M_{t,e}$ | $= 1$ si enseignant $e$ est spécialiste du domaine de l'étudiant $t$ |
 | $MM_{t,e}$ | $= 1$ si enseignant $e$ est le maître de mémoire de l'étudiant $t$ |
 
-### Variables de Décision
+### Variables de décision
 
 #### Variables principales
 
@@ -129,7 +129,7 @@ $$W_{e,j} \geq T^{max}_{e,j} - T^{min}_{e,j} + 1 - \sum_{h \in H} a_{e,j,h}$$
 
 ---
 
-### Fonction Objectif
+### Fonction objectif
 
 $$\max Z = \sum_{j,h,k,t} x_{j,h,k,t} - p_1 \sum_{j,k} s_{j,k} - p_2 \sum_{e,j} w_{e,j} - p_3 \sum_{e,j} W_{e,j}$$
 
@@ -140,7 +140,7 @@ Avec :
 
 ---
 
-## 📁 Structure des Données
+## Structure des données
 
 ### Entrée (`simu.json`)
 
@@ -200,7 +200,7 @@ Avec :
 
 ---
 
-## 🚀 Utilisation
+## Utilisation
 
 ```python
 import json
@@ -210,10 +210,11 @@ with open("simu.json", "r") as f:
     data = json.load(f)
 
 # Exécuter l'optimisation
-from gurobi_without_api import cp
+from defense_model import cp
 planning = cp(data)
 
 # Le résultat est retourné sous forme de dictionnaire
 print(f"Soutenances planifiées: {planning['metriques']['total_soutenances']}")
 ```
+
 
