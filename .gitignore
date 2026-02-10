@@ -1,0 +1,17 @@
+# python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+# Jupyter Notebook
+.ipynb_checkpoints
+# Data files
+data/
+
+# logs/
+logs/
+*.log

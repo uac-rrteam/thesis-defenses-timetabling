@@ -210,7 +210,8 @@ with open("simu.json", "r") as f:
     data = json.load(f)
 
 # Exécuter l'optimisation
-from defense_model import cp
+from models.defense_model import cp
+
 planning = cp(data)
 
 # Le résultat est retourné sous forme de dictionnaire

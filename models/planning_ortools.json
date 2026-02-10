@@ -1,0 +1,1100 @@
+{
+    "Defense": [
+        {
+            "student_id": "37",
+            "defenseJury": {
+                "president_id": "17",
+                "examiner_id": "1",
+                "supervisor_id": "30"
+            },
+            "room_id": "0",
+            "schedule": 0,
+            "date": 0
+        },
+        {
+            "student_id": "25",
+            "defenseJury": {
+                "president_id": "7",
+                "examiner_id": "2",
+                "supervisor_id": "25"
+            },
+            "room_id": "4",
+            "schedule": 3,
+            "date": 0
+        },
+        {
+            "student_id": "28",
+            "defenseJury": {
+                "president_id": "7",
+                "examiner_id": "2",
+                "supervisor_id": "25"
+            },
+            "room_id": "4",
+            "schedule": 4,
+            "date": 0
+        },
+        {
+            "student_id": "45",
+            "defenseJury": {
+                "president_id": "41",
+                "examiner_id": "43",
+                "supervisor_id": "21"
+            },
+            "room_id": "1",
+            "schedule": 0,
+            "date": 1
+        },
+        {
+            "student_id": "39",
+            "defenseJury": {
+                "president_id": "35",
+                "examiner_id": "19",
+                "supervisor_id": "23"
+            },
+            "room_id": "2",
+            "schedule": 0,
+            "date": 1
+        },
+        {
+            "student_id": "13",
+            "defenseJury": {
+                "president_id": "38",
+                "examiner_id": "9",
+                "supervisor_id": "8"
+            },
+            "room_id": "3",
+            "schedule": 0,
+            "date": 1
+        },
+        {
+            "student_id": "41",
+            "defenseJury": {
+                "president_id": "17",
+                "examiner_id": "31",
+                "supervisor_id": "15"
+            },
+            "room_id": "4",
+            "schedule": 0,
+            "date": 1
+        },
+        {
+            "student_id": "64",
+            "defenseJury": {
+                "president_id": "7",
+                "examiner_id": "39",
+                "supervisor_id": "28"
+            },
+            "room_id": "1",
+            "schedule": 1,
+            "date": 1
+        },
+        {
+            "student_id": "18",
+            "defenseJury": {
+                "president_id": "36",
+                "examiner_id": "19",
+                "supervisor_id": "23"
+            },
+            "room_id": "2",
+            "schedule": 1,
+            "date": 1
+        },
+        {
+            "student_id": "43",
+            "defenseJury": {
+                "president_id": "38",
+                "examiner_id": "18",
+                "supervisor_id": "9"
+            },
+            "room_id": "3",
+            "schedule": 1,
+            "date": 1
+        },
+        {
+            "student_id": "95",
+            "defenseJury": {
+                "president_id": "17",
+                "examiner_id": "16",
+                "supervisor_id": "4"
+            },
+            "room_id": "4",
+            "schedule": 1,
+            "date": 1
+        },
+        {
+            "student_id": "80",
+            "defenseJury": {
+                "president_id": "7",
+                "examiner_id": "39",
+                "supervisor_id": "28"
+            },
+            "room_id": "1",
+            "schedule": 2,
+            "date": 1
+        },
+        {
+            "student_id": "81",
+            "defenseJury": {
+                "president_id": "36",
+                "examiner_id": "24",
+                "supervisor_id": "23"
+            },
+            "room_id": "2",
+            "schedule": 2,
+            "date": 1
+        },
+        {
+            "student_id": "51",
+            "defenseJury": {
+                "president_id": "37",
+                "examiner_id": "18",
+                "supervisor_id": "9"
+            },
+            "room_id": "3",
+            "schedule": 2,
+            "date": 1
+        },
+        {
+            "student_id": "91",
+            "defenseJury": {
+                "president_id": "29",
+                "examiner_id": "16",
+                "supervisor_id": "4"
+            },
+            "room_id": "4",
+            "schedule": 2,
+            "date": 1
+        },
+        {
+            "student_id": "38",
+            "defenseJury": {
+                "president_id": "0",
+                "examiner_id": "27",
+                "supervisor_id": "5"
+            },
+            "room_id": "0",
+            "schedule": 3,
+            "date": 1
+        },
+        {
+            "student_id": "83",
+            "defenseJury": {
+                "president_id": "7",
+                "examiner_id": "39",
+                "supervisor_id": "28"
+            },
+            "room_id": "1",
+            "schedule": 3,
+            "date": 1
+        },
+        {
+            "student_id": "96",
+            "defenseJury": {
+                "president_id": "24",
+                "examiner_id": "6",
+                "supervisor_id": "10"
+            },
+            "room_id": "2",
+            "schedule": 3,
+            "date": 1
+        },
+        {
+            "student_id": "23",
+            "defenseJury": {
+                "president_id": "37",
+                "examiner_id": "12",
+                "supervisor_id": "9"
+            },
+            "room_id": "3",
+            "schedule": 3,
+            "date": 1
+        },
+        {
+            "student_id": "63",
+            "defenseJury": {
+                "president_id": "29",
+                "examiner_id": "4",
+                "supervisor_id": "16"
+            },
+            "room_id": "4",
+            "schedule": 3,
+            "date": 1
+        },
+        {
+            "student_id": "35",
+            "defenseJury": {
+                "president_id": "0",
+                "examiner_id": "27",
+                "supervisor_id": "5"
+            },
+            "room_id": "0",
+            "schedule": 4,
+            "date": 1
+        },
+        {
+            "student_id": "79",
+            "defenseJury": {
+                "president_id": "7",
+                "examiner_id": "39",
+                "supervisor_id": "28"
+            },
+            "room_id": "1",
+            "schedule": 4,
+            "date": 1
+        },
+        {
+            "student_id": "77",
+            "defenseJury": {
+                "president_id": "25",
+                "examiner_id": "10",
+                "supervisor_id": "6"
+            },
+            "room_id": "2",
+            "schedule": 4,
+            "date": 1
+        },
+        {
+            "student_id": "36",
+            "defenseJury": {
+                "president_id": "37",
+                "examiner_id": "12",
+                "supervisor_id": "20"
+            },
+            "room_id": "3",
+            "schedule": 4,
+            "date": 1
+        },
+        {
+            "student_id": "16",
+            "defenseJury": {
+                "president_id": "29",
+                "examiner_id": "42",
+                "supervisor_id": "4"
+            },
+            "room_id": "4",
+            "schedule": 4,
+            "date": 1
+        },
+        {
+            "student_id": "88",
+            "defenseJury": {
+                "president_id": "11",
+                "examiner_id": "0",
+                "supervisor_id": "2"
+            },
+            "room_id": "0",
+            "schedule": 5,
+            "date": 1
+        },
+        {
+            "student_id": "33",
+            "defenseJury": {
+                "president_id": "14",
+                "examiner_id": "1",
+                "supervisor_id": "13"
+            },
+            "room_id": "1",
+            "schedule": 5,
+            "date": 1
+        },
+        {
+            "student_id": "89",
+            "defenseJury": {
+                "president_id": "25",
+                "examiner_id": "10",
+                "supervisor_id": "6"
+            },
+            "room_id": "2",
+            "schedule": 5,
+            "date": 1
+        },
+        {
+            "student_id": "0",
+            "defenseJury": {
+                "president_id": "30",
+                "examiner_id": "12",
+                "supervisor_id": "20"
+            },
+            "room_id": "3",
+            "schedule": 5,
+            "date": 1
+        },
+        {
+            "student_id": "24",
+            "defenseJury": {
+                "president_id": "33",
+                "examiner_id": "42",
+                "supervisor_id": "22"
+            },
+            "room_id": "4",
+            "schedule": 5,
+            "date": 1
+        },
+        {
+            "student_id": "60",
+            "defenseJury": {
+                "president_id": "13",
+                "examiner_id": "14",
+                "supervisor_id": "1"
+            },
+            "room_id": "1",
+            "schedule": 6,
+            "date": 1
+        },
+        {
+            "student_id": "82",
+            "defenseJury": {
+                "president_id": "3",
+                "examiner_id": "34",
+                "supervisor_id": "30"
+            },
+            "room_id": "3",
+            "schedule": 6,
+            "date": 1
+        },
+        {
+            "student_id": "98",
+            "defenseJury": {
+                "president_id": "33",
+                "examiner_id": "42",
+                "supervisor_id": "26"
+            },
+            "room_id": "4",
+            "schedule": 6,
+            "date": 1
+        },
+        {
+            "student_id": "48",
+            "defenseJury": {
+                "president_id": "13",
+                "examiner_id": "14",
+                "supervisor_id": "1"
+            },
+            "room_id": "1",
+            "schedule": 7,
+            "date": 1
+        },
+        {
+            "student_id": "32",
+            "defenseJury": {
+                "president_id": "33",
+                "examiner_id": "42",
+                "supervisor_id": "26"
+            },
+            "room_id": "4",
+            "schedule": 7,
+            "date": 1
+        },
+        {
+            "student_id": "84",
+            "defenseJury": {
+                "president_id": "35",
+                "examiner_id": "6",
+                "supervisor_id": "15"
+            },
+            "room_id": "1",
+            "schedule": 0,
+            "date": 2
+        },
+        {
+            "student_id": "26",
+            "defenseJury": {
+                "president_id": "13",
+                "examiner_id": "42",
+                "supervisor_id": "16"
+            },
+            "room_id": "2",
+            "schedule": 0,
+            "date": 2
+        },
+        {
+            "student_id": "31",
+            "defenseJury": {
+                "president_id": "36",
+                "examiner_id": "20",
+                "supervisor_id": "17"
+            },
+            "room_id": "3",
+            "schedule": 0,
+            "date": 2
+        },
+        {
+            "student_id": "97",
+            "defenseJury": {
+                "president_id": "38",
+                "examiner_id": "33",
+                "supervisor_id": "8"
+            },
+            "room_id": "4",
+            "schedule": 0,
+            "date": 2
+        },
+        {
+            "student_id": "68",
+            "defenseJury": {
+                "president_id": "2",
+                "examiner_id": "34",
+                "supervisor_id": "18"
+            },
+            "room_id": "0",
+            "schedule": 1,
+            "date": 2
+        },
+        {
+            "student_id": "78",
+            "defenseJury": {
+                "president_id": "35",
+                "examiner_id": "6",
+                "supervisor_id": "12"
+            },
+            "room_id": "1",
+            "schedule": 1,
+            "date": 2
+        },
+        {
+            "student_id": "30",
+            "defenseJury": {
+                "president_id": "3",
+                "examiner_id": "42",
+                "supervisor_id": "5"
+            },
+            "room_id": "2",
+            "schedule": 1,
+            "date": 2
+        },
+        {
+            "student_id": "85",
+            "defenseJury": {
+                "president_id": "36",
+                "examiner_id": "17",
+                "supervisor_id": "20"
+            },
+            "room_id": "3",
+            "schedule": 1,
+            "date": 2
+        },
+        {
+            "student_id": "73",
+            "defenseJury": {
+                "president_id": "33",
+                "examiner_id": "4",
+                "supervisor_id": "8"
+            },
+            "room_id": "4",
+            "schedule": 1,
+            "date": 2
+        },
+        {
+            "student_id": "92",
+            "defenseJury": {
+                "president_id": "25",
+                "examiner_id": "18",
+                "supervisor_id": "2"
+            },
+            "room_id": "0",
+            "schedule": 2,
+            "date": 2
+        },
+        {
+            "student_id": "22",
+            "defenseJury": {
+                "president_id": "17",
+                "examiner_id": "20",
+                "supervisor_id": "26"
+            },
+            "room_id": "3",
+            "schedule": 2,
+            "date": 2
+        },
+        {
+            "student_id": "71",
+            "defenseJury": {
+                "president_id": "33",
+                "examiner_id": "4",
+                "supervisor_id": "8"
+            },
+            "room_id": "4",
+            "schedule": 2,
+            "date": 2
+        },
+        {
+            "student_id": "86",
+            "defenseJury": {
+                "president_id": "25",
+                "examiner_id": "18",
+                "supervisor_id": "2"
+            },
+            "room_id": "0",
+            "schedule": 3,
+            "date": 2
+        },
+        {
+            "student_id": "87",
+            "defenseJury": {
+                "president_id": "17",
+                "examiner_id": "28",
+                "supervisor_id": "26"
+            },
+            "room_id": "3",
+            "schedule": 3,
+            "date": 2
+        },
+        {
+            "student_id": "53",
+            "defenseJury": {
+                "president_id": "7",
+                "examiner_id": "43",
+                "supervisor_id": "4"
+            },
+            "room_id": "4",
+            "schedule": 3,
+            "date": 2
+        },
+        {
+            "student_id": "90",
+            "defenseJury": {
+                "president_id": "25",
+                "examiner_id": "18",
+                "supervisor_id": "21"
+            },
+            "room_id": "0",
+            "schedule": 4,
+            "date": 2
+        },
+        {
+            "student_id": "29",
+            "defenseJury": {
+                "president_id": "14",
+                "examiner_id": "1",
+                "supervisor_id": "27"
+            },
+            "room_id": "2",
+            "schedule": 4,
+            "date": 2
+        },
+        {
+            "student_id": "55",
+            "defenseJury": {
+                "president_id": "0",
+                "examiner_id": "28",
+                "supervisor_id": "26"
+            },
+            "room_id": "3",
+            "schedule": 4,
+            "date": 2
+        },
+        {
+            "student_id": "52",
+            "defenseJury": {
+                "president_id": "29",
+                "examiner_id": "43",
+                "supervisor_id": "4"
+            },
+            "room_id": "4",
+            "schedule": 4,
+            "date": 2
+        },
+        {
+            "student_id": "47",
+            "defenseJury": {
+                "president_id": "37",
+                "examiner_id": "31",
+                "supervisor_id": "22"
+            },
+            "room_id": "0",
+            "schedule": 5,
+            "date": 2
+        },
+        {
+            "student_id": "27",
+            "defenseJury": {
+                "president_id": "1",
+                "examiner_id": "27",
+                "supervisor_id": "14"
+            },
+            "room_id": "2",
+            "schedule": 5,
+            "date": 2
+        },
+        {
+            "student_id": "19",
+            "defenseJury": {
+                "president_id": "0",
+                "examiner_id": "23",
+                "supervisor_id": "24"
+            },
+            "room_id": "3",
+            "schedule": 5,
+            "date": 2
+        },
+        {
+            "student_id": "17",
+            "defenseJury": {
+                "president_id": "29",
+                "examiner_id": "11",
+                "supervisor_id": "10"
+            },
+            "room_id": "4",
+            "schedule": 5,
+            "date": 2
+        },
+        {
+            "student_id": "46",
+            "defenseJury": {
+                "president_id": "37",
+                "examiner_id": "31",
+                "supervisor_id": "22"
+            },
+            "room_id": "0",
+            "schedule": 6,
+            "date": 2
+        },
+        {
+            "student_id": "67",
+            "defenseJury": {
+                "president_id": "41",
+                "examiner_id": "39",
+                "supervisor_id": "9"
+            },
+            "room_id": "1",
+            "schedule": 6,
+            "date": 2
+        },
+        {
+            "student_id": "42",
+            "defenseJury": {
+                "president_id": "30",
+                "examiner_id": "1",
+                "supervisor_id": "27"
+            },
+            "room_id": "2",
+            "schedule": 6,
+            "date": 2
+        },
+        {
+            "student_id": "20",
+            "defenseJury": {
+                "president_id": "0",
+                "examiner_id": "19",
+                "supervisor_id": "24"
+            },
+            "room_id": "3",
+            "schedule": 6,
+            "date": 2
+        },
+        {
+            "student_id": "93",
+            "defenseJury": {
+                "president_id": "11",
+                "examiner_id": "10",
+                "supervisor_id": "29"
+            },
+            "room_id": "4",
+            "schedule": 6,
+            "date": 2
+        },
+        {
+            "student_id": "34",
+            "defenseJury": {
+                "president_id": "30",
+                "examiner_id": "27",
+                "supervisor_id": "1"
+            },
+            "room_id": "2",
+            "schedule": 7,
+            "date": 2
+        },
+        {
+            "student_id": "94",
+            "defenseJury": {
+                "president_id": "24",
+                "examiner_id": "19",
+                "supervisor_id": "0"
+            },
+            "room_id": "3",
+            "schedule": 7,
+            "date": 2
+        },
+        {
+            "student_id": "21",
+            "defenseJury": {
+                "president_id": "29",
+                "examiner_id": "11",
+                "supervisor_id": "10"
+            },
+            "room_id": "4",
+            "schedule": 7,
+            "date": 2
+        },
+        {
+            "student_id": "40",
+            "defenseJury": {
+                "president_id": "17",
+                "examiner_id": "15",
+                "supervisor_id": "18"
+            },
+            "room_id": "0",
+            "schedule": 0,
+            "date": 3
+        },
+        {
+            "student_id": "74",
+            "defenseJury": {
+                "president_id": "36",
+                "examiner_id": "14",
+                "supervisor_id": "30"
+            },
+            "room_id": "1",
+            "schedule": 0,
+            "date": 3
+        },
+        {
+            "student_id": "2",
+            "defenseJury": {
+                "president_id": "41",
+                "examiner_id": "1",
+                "supervisor_id": "13"
+            },
+            "room_id": "2",
+            "schedule": 0,
+            "date": 3
+        },
+        {
+            "student_id": "14",
+            "defenseJury": {
+                "president_id": "29",
+                "examiner_id": "2",
+                "supervisor_id": "19"
+            },
+            "room_id": "3",
+            "schedule": 0,
+            "date": 3
+        },
+        {
+            "student_id": "12",
+            "defenseJury": {
+                "president_id": "0",
+                "examiner_id": "42",
+                "supervisor_id": "10"
+            },
+            "room_id": "4",
+            "schedule": 0,
+            "date": 3
+        },
+        {
+            "student_id": "69",
+            "defenseJury": {
+                "president_id": "17",
+                "examiner_id": "18",
+                "supervisor_id": "15"
+            },
+            "room_id": "0",
+            "schedule": 1,
+            "date": 3
+        },
+        {
+            "student_id": "62",
+            "defenseJury": {
+                "president_id": "36",
+                "examiner_id": "14",
+                "supervisor_id": "30"
+            },
+            "room_id": "1",
+            "schedule": 1,
+            "date": 3
+        },
+        {
+            "student_id": "66",
+            "defenseJury": {
+                "president_id": "13",
+                "examiner_id": "39",
+                "supervisor_id": "12"
+            },
+            "room_id": "2",
+            "schedule": 1,
+            "date": 3
+        },
+        {
+            "student_id": "57",
+            "defenseJury": {
+                "president_id": "2",
+                "examiner_id": "34",
+                "supervisor_id": "22"
+            },
+            "room_id": "3",
+            "schedule": 1,
+            "date": 3
+        },
+        {
+            "student_id": "15",
+            "defenseJury": {
+                "president_id": "0",
+                "examiner_id": "42",
+                "supervisor_id": "10"
+            },
+            "room_id": "4",
+            "schedule": 1,
+            "date": 3
+        },
+        {
+            "student_id": "59",
+            "defenseJury": {
+                "president_id": "30",
+                "examiner_id": "14",
+                "supervisor_id": "23"
+            },
+            "room_id": "1",
+            "schedule": 2,
+            "date": 3
+        },
+        {
+            "student_id": "70",
+            "defenseJury": {
+                "president_id": "13",
+                "examiner_id": "39",
+                "supervisor_id": "12"
+            },
+            "room_id": "2",
+            "schedule": 2,
+            "date": 3
+        },
+        {
+            "student_id": "9",
+            "defenseJury": {
+                "president_id": "0",
+                "examiner_id": "42",
+                "supervisor_id": "8"
+            },
+            "room_id": "4",
+            "schedule": 2,
+            "date": 3
+        },
+        {
+            "student_id": "44",
+            "defenseJury": {
+                "president_id": "3",
+                "examiner_id": "31",
+                "supervisor_id": "9"
+            },
+            "room_id": "0",
+            "schedule": 3,
+            "date": 3
+        },
+        {
+            "student_id": "7",
+            "defenseJury": {
+                "president_id": "37",
+                "examiner_id": "23",
+                "supervisor_id": "14"
+            },
+            "room_id": "1",
+            "schedule": 3,
+            "date": 3
+        },
+        {
+            "student_id": "58",
+            "defenseJury": {
+                "president_id": "12",
+                "examiner_id": "39",
+                "supervisor_id": "13"
+            },
+            "room_id": "2",
+            "schedule": 3,
+            "date": 3
+        },
+        {
+            "student_id": "72",
+            "defenseJury": {
+                "president_id": "38",
+                "examiner_id": "4",
+                "supervisor_id": "8"
+            },
+            "room_id": "4",
+            "schedule": 3,
+            "date": 3
+        },
+        {
+            "student_id": "65",
+            "defenseJury": {
+                "president_id": "25",
+                "examiner_id": "16",
+                "supervisor_id": "3"
+            },
+            "room_id": "0",
+            "schedule": 4,
+            "date": 3
+        },
+        {
+            "student_id": "1",
+            "defenseJury": {
+                "president_id": "37",
+                "examiner_id": "20",
+                "supervisor_id": "23"
+            },
+            "room_id": "1",
+            "schedule": 4,
+            "date": 3
+        },
+        {
+            "student_id": "61",
+            "defenseJury": {
+                "president_id": "12",
+                "examiner_id": "39",
+                "supervisor_id": "26"
+            },
+            "room_id": "2",
+            "schedule": 4,
+            "date": 3
+        },
+        {
+            "student_id": "4",
+            "defenseJury": {
+                "president_id": "24",
+                "examiner_id": "27",
+                "supervisor_id": "5"
+            },
+            "room_id": "3",
+            "schedule": 4,
+            "date": 3
+        },
+        {
+            "student_id": "76",
+            "defenseJury": {
+                "president_id": "38",
+                "examiner_id": "4",
+                "supervisor_id": "8"
+            },
+            "room_id": "4",
+            "schedule": 4,
+            "date": 3
+        },
+        {
+            "student_id": "10",
+            "defenseJury": {
+                "president_id": "37",
+                "examiner_id": "23",
+                "supervisor_id": "21"
+            },
+            "room_id": "1",
+            "schedule": 5,
+            "date": 3
+        },
+        {
+            "student_id": "11",
+            "defenseJury": {
+                "president_id": "24",
+                "examiner_id": "27",
+                "supervisor_id": "5"
+            },
+            "room_id": "3",
+            "schedule": 5,
+            "date": 3
+        },
+        {
+            "student_id": "75",
+            "defenseJury": {
+                "president_id": "33",
+                "examiner_id": "4",
+                "supervisor_id": "28"
+            },
+            "room_id": "4",
+            "schedule": 5,
+            "date": 3
+        },
+        {
+            "student_id": "6",
+            "defenseJury": {
+                "president_id": "7",
+                "examiner_id": "27",
+                "supervisor_id": "24"
+            },
+            "room_id": "3",
+            "schedule": 6,
+            "date": 3
+        },
+        {
+            "student_id": "56",
+            "defenseJury": {
+                "president_id": "33",
+                "examiner_id": "4",
+                "supervisor_id": "28"
+            },
+            "room_id": "4",
+            "schedule": 6,
+            "date": 3
+        },
+        {
+            "student_id": "8",
+            "defenseJury": {
+                "president_id": "24",
+                "examiner_id": "27",
+                "supervisor_id": "6"
+            },
+            "room_id": "3",
+            "schedule": 7,
+            "date": 3
+        },
+        {
+            "student_id": "49",
+            "defenseJury": {
+                "president_id": "30",
+                "examiner_id": "35",
+                "supervisor_id": "6"
+            },
+            "room_id": "2",
+            "schedule": 0,
+            "date": 4
+        },
+        {
+            "student_id": "50",
+            "defenseJury": {
+                "president_id": "7",
+                "examiner_id": "43",
+                "supervisor_id": "11"
+            },
+            "room_id": "2",
+            "schedule": 2,
+            "date": 4
+        },
+        {
+            "student_id": "3",
+            "defenseJury": {
+                "president_id": "3",
+                "examiner_id": "27",
+                "supervisor_id": "14"
+            },
+            "room_id": "2",
+            "schedule": 5,
+            "date": 4
+        },
+        {
+            "student_id": "54",
+            "defenseJury": {
+                "president_id": "3",
+                "examiner_id": "14",
+                "supervisor_id": "27"
+            },
+            "room_id": "2",
+            "schedule": 6,
+            "date": 4
+        },
+        {
+            "student_id": "5",
+            "defenseJury": {
+                "president_id": "3",
+                "examiner_id": "27",
+                "supervisor_id": "14"
+            },
+            "room_id": "2",
+            "schedule": 7,
+            "date": 4
+        }
+    ],
+    "metriques": {
+        "total_soutenances": 99,
+        "moyenne_soutenances": 6.75,
+        "max_defenses": 13,
+        "min_defenses": 0,
+        "stdev_defenses": 2.805230504222101
+    }
+}

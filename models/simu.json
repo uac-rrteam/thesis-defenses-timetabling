@@ -1,0 +1,4770 @@
+{
+    "students": [
+        {
+            "id": "0",
+            "name": "Nom_1 Pr\u00e9nom_1",
+            "speciality": "GL",
+            "mm_id": "0",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_1"
+        },
+        {
+            "id": "1",
+            "name": "Nom_2 Pr\u00e9nom_2",
+            "speciality": "GL",
+            "mm_id": "1",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_2"
+        },
+        {
+            "id": "2",
+            "name": "Nom_3 Pr\u00e9nom_3",
+            "speciality": "GL",
+            "mm_id": "1",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_3"
+        },
+        {
+            "id": "3",
+            "name": "Nom_4 Pr\u00e9nom_4",
+            "speciality": "GL",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_4"
+        },
+        {
+            "id": "4",
+            "name": "Nom_5 Pr\u00e9nom_5",
+            "speciality": "GL",
+            "mm_id": "3",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_5"
+        },
+        {
+            "id": "5",
+            "name": "Nom_6 Pr\u00e9nom_6",
+            "speciality": "GL",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_6"
+        },
+        {
+            "id": "6",
+            "name": "Nom_7 Pr\u00e9nom_7",
+            "speciality": "GL",
+            "mm_id": "4",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_7"
+        },
+        {
+            "id": "7",
+            "name": "Nom_8 Pr\u00e9nom_8",
+            "speciality": "GL",
+            "mm_id": "0",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_8"
+        },
+        {
+            "id": "8",
+            "name": "Nom_9 Pr\u00e9nom_9",
+            "speciality": "GL",
+            "mm_id": "0",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_9"
+        },
+        {
+            "id": "9",
+            "name": "Nom_10 Pr\u00e9nom_10",
+            "speciality": "GL",
+            "mm_id": "5",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_10"
+        },
+        {
+            "id": "10",
+            "name": "Nom_11 Pr\u00e9nom_11",
+            "speciality": "GL",
+            "mm_id": "6",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_11"
+        },
+        {
+            "id": "11",
+            "name": "Nom_12 Pr\u00e9nom_12",
+            "speciality": "GL",
+            "mm_id": "6",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_12"
+        },
+        {
+            "id": "12",
+            "name": "Nom_13 Pr\u00e9nom_13",
+            "speciality": "GL",
+            "mm_id": "0",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_13"
+        },
+        {
+            "id": "13",
+            "name": "Nom_14 Pr\u00e9nom_14",
+            "speciality": "GL",
+            "mm_id": "6",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_14"
+        },
+        {
+            "id": "14",
+            "name": "Nom_15 Pr\u00e9nom_15",
+            "speciality": "GL",
+            "mm_id": "8",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_15"
+        },
+        {
+            "id": "15",
+            "name": "Nom_16 Pr\u00e9nom_16",
+            "speciality": "GL",
+            "mm_id": "9",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_16"
+        },
+        {
+            "id": "16",
+            "name": "Nom_17 Pr\u00e9nom_17",
+            "speciality": "GL",
+            "mm_id": "10",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_17"
+        },
+        {
+            "id": "17",
+            "name": "Nom_18 Pr\u00e9nom_18",
+            "speciality": "GL",
+            "mm_id": "6",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_18"
+        },
+        {
+            "id": "18",
+            "name": "Nom_19 Pr\u00e9nom_19",
+            "speciality": "GL",
+            "mm_id": "10",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_19"
+        },
+        {
+            "id": "19",
+            "name": "Nom_20 Pr\u00e9nom_20",
+            "speciality": "GL",
+            "mm_id": "12",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_20"
+        },
+        {
+            "id": "20",
+            "name": "Nom_21 Pr\u00e9nom_21",
+            "speciality": "GL",
+            "mm_id": "10",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_21"
+        },
+        {
+            "id": "21",
+            "name": "Nom_22 Pr\u00e9nom_22",
+            "speciality": "GL",
+            "mm_id": "6",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_22"
+        },
+        {
+            "id": "22",
+            "name": "Nom_23 Pr\u00e9nom_23",
+            "speciality": "GL",
+            "mm_id": "5",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_23"
+        },
+        {
+            "id": "23",
+            "name": "Nom_24 Pr\u00e9nom_24",
+            "speciality": "GL",
+            "mm_id": "9",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_24"
+        },
+        {
+            "id": "24",
+            "name": "Nom_25 Pr\u00e9nom_25",
+            "speciality": "GL",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_25"
+        },
+        {
+            "id": "25",
+            "name": "Nom_26 Pr\u00e9nom_26",
+            "speciality": "GL",
+            "mm_id": "13",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_26"
+        },
+        {
+            "id": "26",
+            "name": "Nom_27 Pr\u00e9nom_27",
+            "speciality": "GL",
+            "mm_id": "14",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_27"
+        },
+        {
+            "id": "27",
+            "name": "Nom_28 Pr\u00e9nom_28",
+            "speciality": "GL",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_28"
+        },
+        {
+            "id": "28",
+            "name": "Nom_29 Pr\u00e9nom_29",
+            "speciality": "GL",
+            "mm_id": "15",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_29"
+        },
+        {
+            "id": "29",
+            "name": "Nom_30 Pr\u00e9nom_30",
+            "speciality": "GL",
+            "mm_id": "9",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_30"
+        },
+        {
+            "id": "30",
+            "name": "Nom_31 Pr\u00e9nom_31",
+            "speciality": "GL",
+            "mm_id": "10",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_31"
+        },
+        {
+            "id": "31",
+            "name": "Nom_32 Pr\u00e9nom_32",
+            "speciality": "GL",
+            "mm_id": "8",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_32"
+        },
+        {
+            "id": "32",
+            "name": "Nom_33 Pr\u00e9nom_33",
+            "speciality": "GL",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_33"
+        },
+        {
+            "id": "33",
+            "name": "Nom_34 Pr\u00e9nom_34",
+            "speciality": "GL",
+            "mm_id": "8",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_34"
+        },
+        {
+            "id": "34",
+            "name": "Nom_35 Pr\u00e9nom_35",
+            "speciality": "GL",
+            "mm_id": "8",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_35"
+        },
+        {
+            "id": "35",
+            "name": "Nom_36 Pr\u00e9nom_36",
+            "speciality": "GL",
+            "mm_id": "14",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_36"
+        },
+        {
+            "id": "36",
+            "name": "Nom_37 Pr\u00e9nom_37",
+            "speciality": "GL",
+            "mm_id": "8",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_37"
+        },
+        {
+            "id": "37",
+            "name": "Nom_38 Pr\u00e9nom_38",
+            "speciality": "GL",
+            "mm_id": "9",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_38"
+        },
+        {
+            "id": "38",
+            "name": "Nom_39 Pr\u00e9nom_39",
+            "speciality": "GL",
+            "mm_id": "1",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_39"
+        },
+        {
+            "id": "39",
+            "name": "Nom_40 Pr\u00e9nom_40",
+            "speciality": "GL",
+            "mm_id": "11",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_40"
+        },
+        {
+            "id": "40",
+            "name": "Nom_41 Pr\u00e9nom_41",
+            "speciality": "GL",
+            "mm_id": "16",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_41"
+        },
+        {
+            "id": "41",
+            "name": "Nom_42 Pr\u00e9nom_42",
+            "speciality": "IM",
+            "mm_id": "11",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_42"
+        },
+        {
+            "id": "42",
+            "name": "Nom_43 Pr\u00e9nom_43",
+            "speciality": "GL",
+            "mm_id": "17",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_43"
+        },
+        {
+            "id": "43",
+            "name": "Nom_44 Pr\u00e9nom_44",
+            "speciality": "IM",
+            "mm_id": "5",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_44"
+        },
+        {
+            "id": "44",
+            "name": "Nom_45 Pr\u00e9nom_45",
+            "speciality": "IM",
+            "mm_id": "16",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_45"
+        },
+        {
+            "id": "45",
+            "name": "Nom_46 Pr\u00e9nom_46",
+            "speciality": "IM",
+            "mm_id": "11",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_46"
+        },
+        {
+            "id": "46",
+            "name": "Nom_47 Pr\u00e9nom_47",
+            "speciality": "IM",
+            "mm_id": "5",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_47"
+        },
+        {
+            "id": "47",
+            "name": "Nom_48 Pr\u00e9nom_48",
+            "speciality": "IM",
+            "mm_id": "9",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_48"
+        },
+        {
+            "id": "48",
+            "name": "Nom_49 Pr\u00e9nom_49",
+            "speciality": "IM",
+            "mm_id": "1",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_49"
+        },
+        {
+            "id": "49",
+            "name": "Nom_50 Pr\u00e9nom_50",
+            "speciality": "IM",
+            "mm_id": "16",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_50"
+        },
+        {
+            "id": "50",
+            "name": "Nom_51 Pr\u00e9nom_51",
+            "speciality": "IM",
+            "mm_id": "18",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_51"
+        },
+        {
+            "id": "51",
+            "name": "Nom_52 Pr\u00e9nom_52",
+            "speciality": "IM",
+            "mm_id": "17",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_52"
+        },
+        {
+            "id": "52",
+            "name": "Nom_53 Pr\u00e9nom_53",
+            "speciality": "IM",
+            "mm_id": "14",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_53"
+        },
+        {
+            "id": "53",
+            "name": "Nom_54 Pr\u00e9nom_54",
+            "speciality": "IM",
+            "mm_id": "19",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_54"
+        },
+        {
+            "id": "54",
+            "name": "Nom_55 Pr\u00e9nom_55",
+            "speciality": "SI",
+            "mm_id": "11",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_55"
+        },
+        {
+            "id": "55",
+            "name": "Nom_56 Pr\u00e9nom_56",
+            "speciality": "SI",
+            "mm_id": "20",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_56"
+        },
+        {
+            "id": "56",
+            "name": "Nom_57 Pr\u00e9nom_57",
+            "speciality": "SI",
+            "mm_id": "21",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_57"
+        },
+        {
+            "id": "57",
+            "name": "Nom_58 Pr\u00e9nom_58",
+            "speciality": "SI",
+            "mm_id": "22",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_58"
+        },
+        {
+            "id": "58",
+            "name": "Nom_59 Pr\u00e9nom_59",
+            "speciality": "SI",
+            "mm_id": "22",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_59"
+        },
+        {
+            "id": "59",
+            "name": "Nom_60 Pr\u00e9nom_60",
+            "speciality": "SI",
+            "mm_id": "22",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_60"
+        },
+        {
+            "id": "60",
+            "name": "Nom_61 Pr\u00e9nom_61",
+            "speciality": "SI",
+            "mm_id": "23",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_61"
+        },
+        {
+            "id": "61",
+            "name": "Nom_62 Pr\u00e9nom_62",
+            "speciality": "SI",
+            "mm_id": "20",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_62"
+        },
+        {
+            "id": "62",
+            "name": "Nom_63 Pr\u00e9nom_63",
+            "speciality": "SI",
+            "mm_id": "24",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_63"
+        },
+        {
+            "id": "63",
+            "name": "Nom_64 Pr\u00e9nom_64",
+            "speciality": "SI",
+            "mm_id": "8",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_64"
+        },
+        {
+            "id": "64",
+            "name": "Nom_65 Pr\u00e9nom_65",
+            "speciality": "SI",
+            "mm_id": "14",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_65"
+        },
+        {
+            "id": "65",
+            "name": "Nom_66 Pr\u00e9nom_66",
+            "speciality": "SI",
+            "mm_id": "12",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_66"
+        },
+        {
+            "id": "66",
+            "name": "Nom_67 Pr\u00e9nom_67",
+            "speciality": "SI",
+            "mm_id": "22",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_67"
+        },
+        {
+            "id": "67",
+            "name": "Nom_68 Pr\u00e9nom_68",
+            "speciality": "SI",
+            "mm_id": "21",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_68"
+        },
+        {
+            "id": "68",
+            "name": "Nom_69 Pr\u00e9nom_69",
+            "speciality": "SI",
+            "mm_id": "25",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_69"
+        },
+        {
+            "id": "69",
+            "name": "Nom_70 Pr\u00e9nom_70",
+            "speciality": "SIRI",
+            "mm_id": "1",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_70"
+        },
+        {
+            "id": "70",
+            "name": "Nom_71 Pr\u00e9nom_71",
+            "speciality": "SI",
+            "mm_id": "24",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_71"
+        },
+        {
+            "id": "71",
+            "name": "Nom_72 Pr\u00e9nom_72",
+            "speciality": "SI",
+            "mm_id": "24",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_72"
+        },
+        {
+            "id": "72",
+            "name": "Nom_73 Pr\u00e9nom_73",
+            "speciality": "SI",
+            "mm_id": "25",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_73"
+        },
+        {
+            "id": "73",
+            "name": "Nom_74 Pr\u00e9nom_74",
+            "speciality": "SI",
+            "mm_id": "20",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_74"
+        },
+        {
+            "id": "74",
+            "name": "Nom_75 Pr\u00e9nom_75",
+            "speciality": "SI",
+            "mm_id": "25",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_75"
+        },
+        {
+            "id": "75",
+            "name": "Nom_76 Pr\u00e9nom_76",
+            "speciality": "SI",
+            "mm_id": "23",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_76"
+        },
+        {
+            "id": "76",
+            "name": "Nom_77 Pr\u00e9nom_77",
+            "speciality": "SI",
+            "mm_id": "24",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_77"
+        },
+        {
+            "id": "77",
+            "name": "Nom_78 Pr\u00e9nom_78",
+            "speciality": "SI",
+            "mm_id": "26",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_78"
+        },
+        {
+            "id": "78",
+            "name": "Nom_79 Pr\u00e9nom_79",
+            "speciality": "SI",
+            "mm_id": "17",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_79"
+        },
+        {
+            "id": "79",
+            "name": "Nom_80 Pr\u00e9nom_80",
+            "speciality": "SI",
+            "mm_id": "27",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_80"
+        },
+        {
+            "id": "80",
+            "name": "Nom_81 Pr\u00e9nom_81",
+            "speciality": "SI",
+            "mm_id": "20",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_81"
+        },
+        {
+            "id": "81",
+            "name": "Nom_82 Pr\u00e9nom_82",
+            "speciality": "SI",
+            "mm_id": "17",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_82"
+        },
+        {
+            "id": "82",
+            "name": "Nom_83 Pr\u00e9nom_83",
+            "speciality": "SI",
+            "mm_id": "25",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_83"
+        },
+        {
+            "id": "83",
+            "name": "Nom_84 Pr\u00e9nom_84",
+            "speciality": "SI",
+            "mm_id": "20",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_84"
+        },
+        {
+            "id": "84",
+            "name": "Nom_85 Pr\u00e9nom_85",
+            "speciality": "SI",
+            "mm_id": "22",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_85"
+        },
+        {
+            "id": "85",
+            "name": "Nom_86 Pr\u00e9nom_86",
+            "speciality": "SIRI",
+            "mm_id": "28",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_86"
+        },
+        {
+            "id": "86",
+            "name": "Nom_87 Pr\u00e9nom_87",
+            "speciality": "SIRI",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_87"
+        },
+        {
+            "id": "87",
+            "name": "Nom_88 Pr\u00e9nom_88",
+            "speciality": "SIRI",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_88"
+        },
+        {
+            "id": "88",
+            "name": "Nom_89 Pr\u00e9nom_89",
+            "speciality": "SIRI",
+            "mm_id": "9",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_89"
+        },
+        {
+            "id": "89",
+            "name": "Nom_90 Pr\u00e9nom_90",
+            "speciality": "SIRI",
+            "mm_id": "29",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_90"
+        },
+        {
+            "id": "90",
+            "name": "Nom_91 Pr\u00e9nom_91",
+            "speciality": "SIRI",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_91"
+        },
+        {
+            "id": "91",
+            "name": "Nom_92 Pr\u00e9nom_92",
+            "speciality": "SIRI",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_92"
+        },
+        {
+            "id": "92",
+            "name": "Nom_93 Pr\u00e9nom_93",
+            "speciality": "SIRI",
+            "mm_id": "30",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_93"
+        },
+        {
+            "id": "93",
+            "name": "Nom_94 Pr\u00e9nom_94",
+            "speciality": "SI",
+            "mm_id": "24",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_94"
+        },
+        {
+            "id": "94",
+            "name": "Nom_95 Pr\u00e9nom_95",
+            "speciality": "GL",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_95"
+        },
+        {
+            "id": "95",
+            "name": "Nom_96 Pr\u00e9nom_96",
+            "speciality": "SI",
+            "mm_id": "23",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_96"
+        },
+        {
+            "id": "96",
+            "name": "Nom_97 Pr\u00e9nom_97",
+            "speciality": "SI",
+            "mm_id": "23",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_97"
+        },
+        {
+            "id": "97",
+            "name": "Nom_98 Pr\u00e9nom_98",
+            "speciality": "GL",
+            "mm_id": "11",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_98"
+        },
+        {
+            "id": "98",
+            "name": "Nom_99 Pr\u00e9nom_99",
+            "speciality": "GL",
+            "mm_id": "2",
+            "diplome": "Licence",
+            "theme": "Th\u00e8me_99"
+        }
+    ],
+    "professeurs": [
+        {
+            "id": "0",
+            "name": "KIKI Probus",
+            "specialities": [
+                "SIRI",
+                "SEIoT"
+            ],
+            "grade": "Docteur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "1",
+            "name": "AOGA John",
+            "specialities": [
+                "SIRI",
+                "IA",
+                "SEIoT",
+                "GL"
+            ],
+            "grade": "Docteur",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "2",
+            "name": "ZOHOU J\u00e9r\u00f4me",
+            "specialities": [
+                "GL",
+                "IA"
+            ],
+            "grade": "Docteur",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "3",
+            "name": "COMLAN Maurice",
+            "specialities": [
+                "SIRI"
+            ],
+            "grade": "MA",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "4",
+            "name": "YAGBO Aristide",
+            "specialities": [
+                "IM",
+                "IA",
+                "SIRI",
+                "SI"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "5",
+            "name": "TOBOSSI Olivier",
+            "specialities": [
+                "IA"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "6",
+            "name": "KOUKPAKI Jean-Pierre",
+            "specialities": [
+                "SI",
+                "IA",
+                "IM"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "7",
+            "name": "KOUCHADE Cl\u00e9ment",
+            "specialities": [
+                "IM"
+            ],
+            "grade": "Professeur",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ]
+        },
+        {
+            "id": "8",
+            "name": "GNONLONFOUN Miranda",
+            "specialities": [
+                "IM"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "9",
+            "name": "ACCROMBESSI Armand",
+            "specialities": [
+                "SIRI",
+                "IM",
+                "SI",
+                "GL"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "10",
+            "name": "HOUNSOUNON Fid\u00e8le",
+            "specialities": [
+                "SI",
+                "SIRI",
+                "IA"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "11",
+            "name": "EZIN Eug\u00e8ne C.",
+            "specialities": [
+                "IM",
+                "GL",
+                "SEIoT"
+            ],
+            "grade": "Professeur",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "12",
+            "name": "SAHO Nelson",
+            "specialities": [
+                "GL",
+                "IM"
+            ],
+            "grade": "Docteur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "13",
+            "name": "SANDA Amadou",
+            "specialities": [
+                "IA"
+            ],
+            "grade": "Docteur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "14",
+            "name": "ASSOGBA Emery",
+            "specialities": [
+                "SIRI",
+                "IM",
+                "SI"
+            ],
+            "grade": "Docteur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "15",
+            "name": "OLOUDE Bickel",
+            "specialities": [
+                "IM",
+                "GL",
+                "SEIoT",
+                "SIRI"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "16",
+            "name": "GOHOUE Rose",
+            "specialities": [
+                "SIRI",
+                "SI",
+                "SEIoT",
+                "IM"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "17",
+            "name": "HOUNDJI Ratheil",
+            "specialities": [
+                "GL",
+                "IM",
+                "SIRI",
+                "IA"
+            ],
+            "grade": "MA",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "18",
+            "name": "DEGUENONVO Saldace",
+            "specialities": [
+                "IM",
+                "SIRI",
+                "SEIoT",
+                "IA"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "19",
+            "name": "AHOUANDJINOU L\u00e9mec",
+            "specialities": [
+                "GL",
+                "SEIoT",
+                "IA"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "20",
+            "name": "LISHOU Laurel",
+            "specialities": [
+                "GL"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "21",
+            "name": "ATTOU Eric",
+            "specialities": [
+                "IM",
+                "IA",
+                "SEIoT",
+                "SIRI"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "22",
+            "name": "OYETOLA Victor",
+            "specialities": [
+                "SEIoT"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "23",
+            "name": "AKAKPO Herv\u00e9",
+            "specialities": [
+                "IA",
+                "GL"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "24",
+            "name": "METONGNON Lionel",
+            "specialities": [
+                "IA",
+                "SI",
+                "SEIoT",
+                "IM"
+            ],
+            "grade": "Docteur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "25",
+            "name": "AHOUANDJINOU Arnaud",
+            "specialities": [
+                "SIRI",
+                "GL"
+            ],
+            "grade": "MC",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "26",
+            "name": "ADEOSSI Francky",
+            "specialities": [
+                "SIRI",
+                "SEIoT"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "27",
+            "name": "ODJO Aboussidikou",
+            "specialities": [
+                "SEIoT",
+                "GL",
+                "SIRI"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "28",
+            "name": "TOLODE Sylvanus",
+            "specialities": [
+                "SI",
+                "SIRI",
+                "IA",
+                "IM"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "29",
+            "name": "EDAH Gaston",
+            "specialities": [
+                "SI"
+            ],
+            "grade": "Professeur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "30",
+            "name": "HONFOGA Anne-Carole",
+            "specialities": [
+                "IA"
+            ],
+            "grade": "Docteur",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ]
+        },
+        {
+            "id": "31",
+            "name": "SOSSOU Otniel",
+            "specialities": [
+                "IM"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "32",
+            "name": "KASSA C\u00e9lia",
+            "specialities": [
+                "SEIoT"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "33",
+            "name": "SANYA Fr\u00e9jus",
+            "specialities": [
+                "SEIoT",
+                "GL",
+                "SI"
+            ],
+            "grade": "MA",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "34",
+            "name": "ZOGBA Blaise",
+            "specialities": [
+                "SI",
+                "SEIoT"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "35",
+            "name": "DEGUENON Pontien",
+            "specialities": [
+                "IM",
+                "IA",
+                "SEIoT"
+            ],
+            "grade": "Docteur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "36",
+            "name": "SOTINDJO Patrick",
+            "specialities": [
+                "SI"
+            ],
+            "grade": "MA",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "37",
+            "name": "OUSMANE Matine",
+            "specialities": [
+                "IA",
+                "IM",
+                "SI"
+            ],
+            "grade": "Docteur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "38",
+            "name": "KPENAVOUN CHOGOU Sylvain",
+            "specialities": [
+                "IM"
+            ],
+            "grade": "Professeur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "39",
+            "name": "SEHLOUAN Herman",
+            "specialities": [
+                "IA",
+                "SI"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "40",
+            "name": "HOUZANME Vladimir",
+            "specialities": [
+                "IA"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "41",
+            "name": "AGOSSOU Carlos",
+            "specialities": [
+                "SEIoT",
+                "SI",
+                "SIRI"
+            ],
+            "grade": "MA",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "42",
+            "name": "OLOU Herv\u00e9",
+            "specialities": [
+                "SIRI",
+                "GL"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        },
+        {
+            "id": "43",
+            "name": "BIBI Honorat",
+            "specialities": [
+                "SEIoT",
+                "IM",
+                "IA"
+            ],
+            "grade": "Ing\u00e9nieur",
+            "disponibilite": [
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            ]
+        }
+    ],
+    "salles": [
+        {
+            "id": "0",
+            "nom": "Zone Master A2-1",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ]
+        },
+        {
+            "id": "1",
+            "nom": "Zone Master A2-2",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ]
+        },
+        {
+            "id": "2",
+            "nom": "Batiment ISA/FSA",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ]
+        },
+        {
+            "id": "3",
+            "nom": "Batiment RESBIO/FSA",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ]
+        },
+        {
+            "id": "4",
+            "nom": "Batiment SOKPON 1",
+            "disponibilite": [
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ]
+            ]
+        }
+    ],
+    "session": {
+        "id": "session_2025",
+        "pre_defense_start_date": "2025-06-01",
+        "pre_defense_end_date": "2025-06-07",
+        "defense_start_date": "2025-07-01",
+        "defense_end_date": "2025-07-07",
+        "max_defenses_per_professor": 4
+    },
+    "diplome": "Licence"
+}
